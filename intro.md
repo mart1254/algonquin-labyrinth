@@ -20,4 +20,8 @@ As you stand at the entrance, you sense that this labyrinth holds many secrets a
 
 [Close your eye's and hope for the best](/closed-eyes/close-your-eyes.md)
 
+[Ask who's there](/ask-whos-there/ask-whos-there.md)
+
+[Ask who's there](/ask-whos-there/ask-whos-there.md)
+
 [Turn away and leave](/quit/quit-start.md)
