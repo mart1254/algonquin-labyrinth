@@ -15,3 +15,5 @@ As you step through the antiquated doorway, the sounds of the campus fade away, 
 You find yourself in a long, winding corridor, its walls lined with decrepit paintings and pictures of a campus long forgotten in time. The floor is uneven, scattered with loose stones and patches of moss. Ahead, the corridor splits into four hallways, each disappearing into darkness.
 
 As you stand at the entrance, you sense that this labyrinth holds many secrets and dangers. Will you proceed with caution, or boldly forge ahead into the unknown? The choices are yours. **What will you do next?**
+
+[Enter first hallway](/first-hallway/enter-first-hallway.md)
