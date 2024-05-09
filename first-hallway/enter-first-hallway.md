@@ -8,5 +8,5 @@ The floor beneath your feet is uneven, and you must tread carefully to avoid tri
 
 As you stand at the threshold of the turn, you feel a sense of anticipation and apprehension. What lies around the corner? Will you continue on, or turn back and explore another path?
 
-[Proceed to enter](/file)\
+[Proceed to enter](/skeleton-fight/turn-first-corner.md)\
 [Return to the entrance and choose a different path](/intro.md)
