@@ -6,4 +6,4 @@ Just as you're about to turn away and leave, a glint of light catches your eye f
 
 [Investigate the light](/investigate-the-light/investigate-the-light.md)
 
-[Leave the labyrinth](/intro.md)
+[Leave the labyrinth](/quit/quit-start.md)

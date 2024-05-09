@@ -22,4 +22,4 @@ As you stand at the entrance, you sense that this labyrinth holds many secrets a
 
 [Ask who's there](/ask-whos-there/ask-whos-there.md)
 
-[Turn away and leave](/quit/quit-start.md)
+[Turn away and leave](/turn-away-and-leave/turn-away-and-leave.md)
