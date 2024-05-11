@@ -16,10 +16,14 @@ You find yourself in a long, winding corridor, its walls lined with decrepit pai
 
 As you stand at the entrance, you sense that this labyrinth holds many secrets and dangers. Will you proceed with caution, or boldly forge ahead into the unknown? The choices are yours. **What will you do next?**
 
+
 [Enter first hallway](/first-hallway/enter-first-hallway.md)
 
 [Close your eye's and hope for the best](/closed-eyes/close-your-eyes.md)
 
 [Ask who's there](/ask-whos-there/ask-whos-there.md)
 
+[Investigate the light](/investigate-the-light/investigate-the-light.md)
+
 [Turn away and leave](/quit/quit-start.md)
+
