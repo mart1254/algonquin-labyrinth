@@ -6,7 +6,7 @@ As you pat around, you sink your hand into a puddle of some sort strong tar like
 
 You are stuck!
 
-[Call for help](/closed-eyes/call-for-help.md)
+[Call for help](/call-for-help/call-for-help.md)
 
 
 [Attempt to escape more](/closed-eyes/attempt-to-escape.md)
