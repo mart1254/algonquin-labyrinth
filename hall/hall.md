@@ -16,4 +16,4 @@ However, you also see a lone path off to your left that leads into darkness, a s
 
 Faced with a pivotal decision, you weigh your options. The labyrinth has tested your limits, and while the promise of further treasures is enticing, the possibility of finally stepping outside to freedom is equally compelling.
 
-[The lone path](/hall/leave-hall)
+[The lone path](/hall/leave-hall.md)
