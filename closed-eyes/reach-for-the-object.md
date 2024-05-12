@@ -9,4 +9,4 @@ You are stuck!
 [Call for help](/closed-eyes/call-for-help.md)
 
 
-[Attempt to escape more]()
+[Attempt to escape more](/closed-eyes/attempt-to-escape.md)
