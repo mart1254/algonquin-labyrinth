@@ -11,3 +11,9 @@ Suddenly, the flickering torches flare as if reacting to your presence, casting 
 [The left path](Darby story)\
 [The center path](Jon story)\
 [The Right Path](/the-right-path/the-right-path.md)
+
+However, you also see a lone path off to your left that leads into darkness, a slight draft coming from it and not marked on any of the maps you’ve glimpsed. This subtle hint of fresh air and natural light suggests it could lead outside, offering a tempting escape from the confines of the underground maze.
+
+Faced with a pivotal decision, you weigh your options. The labyrinth has tested your limits, and while the promise of further treasures is enticing, the possibility of finally stepping outside to freedom is equally compelling.
+
+[The lone path](/hall/leave-hall)
