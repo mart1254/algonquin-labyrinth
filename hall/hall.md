@@ -10,4 +10,4 @@ Suddenly, the flickering torches flare as if reacting to your presence, casting 
 
 [The left path](Darby story)\
 [The center path](Jon story)\
-[The Right PAth](/the-right-path/the-right-path.md)
+[The Right Path](/the-right-path/the-right-path.md)
