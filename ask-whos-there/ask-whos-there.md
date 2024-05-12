@@ -8,6 +8,6 @@ A chill runs down your spine as you realize you are not alone. The labyrinth is 
 
 For a moment, you see a fleeting glimpse of movement in the periphery of your vision. You turn, but there is nothing there, only the endless corridors stretching into darkness.
 
-[Determined to press on](/determined-to-press-on/determined-to-press-on.md)
+[Determined to press on](/haunting/haunting.md)
 
 [Return to the entrance and choose a different path](/intro.md)
