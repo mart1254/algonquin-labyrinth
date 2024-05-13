@@ -8,7 +8,7 @@ As you step into the hall, a sense of unease fills the air—a whispering sound 
 
 Suddenly, the flickering torches flare as if reacting to your presence, casting long, dancing shadows against the walls. Up ahead, you see three pathways, each leading in a different direction:
 
-[The left path](/hall/hall-stumble.md)\
+[The left path](/hall/left-path.md)\
 [The center path](/hall/center-path.md)\
 [The Right Path](/the-right-path/the-right-path.md)
 
