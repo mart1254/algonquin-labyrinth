@@ -4,6 +4,6 @@ Feeling a sudden wave of apprehension, you decide that the risks outweigh the po
 
 Just as you're about to turn away and leave, a glint of light catches your eye from one of the darkened hallways. Curiosity piqued once more, you find yourself drawn towards it.
 
-[Investigate the light]()
+[Investigate the light](/turn-away-and-leave/the-light.md)
 
 [Leave the labyrinth](/quit/quit-start.md)
