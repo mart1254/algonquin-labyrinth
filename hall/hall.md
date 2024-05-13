@@ -8,8 +8,8 @@ As you step into the hall, a sense of unease fills the air—a whispering sound 
 
 Suddenly, the flickering torches flare as if reacting to your presence, casting long, dancing shadows against the walls. Up ahead, you see three pathways, each leading in a different direction:
 
-[The left path](Darby story)\
-[The center path](Jon story)\
+[The left path](/hall/hall-stumble.md)\
+[The center path](/hall/center-path.md)\
 [The Right Path](/the-right-path/the-right-path.md)
 
 However, you also see a lone path off to your left that leads into darkness, a slight draft coming from it and not marked on any of the maps you’ve glimpsed. This subtle hint of fresh air and natural light suggests it could lead outside, offering a tempting escape from the confines of the underground maze.
