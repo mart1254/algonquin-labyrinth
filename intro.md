@@ -23,7 +23,7 @@ As you stand at the entrance, you sense that this labyrinth holds many secrets a
 
 [Ask who's there](/ask-whos-there/ask-whos-there.md)
 
-[Investigate the light](/investigate-the-light/investigate-the-light.md)
+[Investigate the light](/turn-away-and-leave/the-light.md)
 
 [Turn away and leave](/turn-away-and-leave/turn-away-and-leave.md)
 
