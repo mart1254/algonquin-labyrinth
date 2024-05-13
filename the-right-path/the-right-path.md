@@ -6,6 +6,6 @@ Finally, you emerge into a vast chamber bathed in an otherworldly glow. In the c
 
 But as you approach, a voice echoes through the chamber—a haunting whisper that sends a chill down your spine. "Welcome, seeker," it murmurs. 
 
-[Reach out and grasp the orb]()
+[Reach out and grasp the orb](/the-right-path/the-orb.md)
 
-[Investigate the chamber further]()
+[Investigate the chamber further](/the-right-path/investigate-chamber.md)
